@@ -1,10 +1,10 @@
-﻿=== Discription: CS606 Assignment 1 ===
+﻿=== Description: IIITB: CS606 Assignment 1 ===
 
 Bezier curve are parametric curves, which are plotted on a given control points. Two methods to compute Bezier curve are using bernstein polynomian and other is De Castljau's algorithm.
 
 === Installation ===
 
-On your linux machine, one needs to install free-glut libraries. To do the same, at terminal punch in
+On your linux machine, install free-glut libraries. To do the same, at terminal punch in
 
 $apt-get install freeglut3-dev
 
