@@ -1,6 +1,7 @@
 === Bezier Curve ===
 
-Bezier curve are parametric curves, which are plotted on a given control points. Two methods to compute Bezier curve are using bernstein polynomian and other is De Castljau's algorithm.
+Bezier curve are parametric curves, which are plotted on a given control points. 
+Two methods to compute Bezier curve are using bernstein polynomian and other is De Castljau's algorithm.
 
 === Youtube link ===
 
@@ -30,10 +31,11 @@ Utility.h
 2. Move into the src dirctory.
 3. Type: make
 
-:~/MT2013152_Assignemnt01/src$ make
+$ make
 
 4. Type: ./paintcurve to fire up the window
-:~/MT2013152_Assignemnt01/src$ ./paintcurve
+
+$ ./paintcurve
 (for Better visual description view Beziercurve-image01.png in screenshots folder )
 
 5. On the window opened, hover your mouse curser and click on the window screen.
