@@ -2,6 +2,10 @@
 
 Bezier curve are parametric curves, which are plotted on a given control points. Two methods to compute Bezier curve are using bernstein polynomian and other is De Castljau's algorithm.
 
+=== Youtube link ===
+
+http://youtu.be/10rW59cKNgM
+
 === Installation ===
 
 On your linux machine, install free-glut libraries. To do the same, at terminal punch in
