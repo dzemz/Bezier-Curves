@@ -1,7 +1,7 @@
 === Bezier Curve ===
 
 Bezier curve are parametric curves, which are plotted on a given control points. 
-Two methods to compute Bezier curve are using bernstein polynomian and other is De Castljau's algorithm.
+Two methods implemented to compute Bezier curve are using bernstein polynomials and De Castljau's algorithm.
 
 === Youtube link ===
 
